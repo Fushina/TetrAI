@@ -4,7 +4,7 @@ Ce projet implémente une IA pour Tetris, basée sur un **algorithme génétique
 
 ---
 
-## Le Tetris
+# Le Tetris
 
 Je ne suis pas reparti de zéro pour coder Tetris : j’ai utilisé le code de **Zigurous**, disponible sur [YouTube](https://www.youtube.com/watch?v=ODLzYI4d-J8) et [GitHub](https://github.com/zigurous/unity-tetris-tutorial).
 
