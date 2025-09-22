@@ -22,6 +22,7 @@ J’ai également retiré le *ghost piece* (la prévisualisation de l’arrivée
 - La pièce descend automatiquement à vitesse régulière, mais le joueur peut :
   - la déplacer latéralement (gauche/droite),
   - la faire descendre plus vite,
+  - **la faire pivoter** (ex. rotation horaire/antihoraire),
   - ou exécuter un **Hard Drop** (descente instantanée au plus bas possible).
 - Lorsqu’une pièce ne peut plus descendre, elle est figée et une nouvelle pièce apparaît.
 - Lorsqu’une ligne est complètement remplie, elle est supprimée et les pièces au-dessus descendent d’un cran.
